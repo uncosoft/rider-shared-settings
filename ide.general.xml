@@ -23,10 +23,10 @@
     <entry key="ide.borderless.title.classpath" value="false" />
     <entry key="ide.borderless.title.product" value="false" />
     <entry key="search.everywhere.settings" value="true" />
-    <entry key="rider.enable.designer.winForms" value="true" />
     <entry key="rdclient.asyncActions" value="false" />
     <entry key="ide.tooltip.showAllSeverities" value="true" />
     <entry key="ide.tree.expand.navigatable.on.double.click.disabled" value="true" />
     <entry key="vcs.enable.add.ignored.directories.to.exclude" value="false" />
+    <entry key="rider.enable.designer.winForms" value="true" />
   </component>
 </application>
