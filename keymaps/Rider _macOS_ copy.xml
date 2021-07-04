@@ -7,6 +7,9 @@
   <action id="EditorStartNewLineBefore">
     <keyboard-shortcut first-keystroke="shift enter" />
   </action>
+  <action id="ExtractMethod">
+    <keyboard-shortcut first-keystroke="meta r" second-keystroke="m" />
+  </action>
   <action id="Github.PullRequest.Comments.Reload" />
   <action id="Github.PullRequest.Details.Reload" />
   <action id="Refresh" />
