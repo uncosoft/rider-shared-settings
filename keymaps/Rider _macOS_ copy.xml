@@ -1,0 +1,20 @@
+<keymap version="1" name="Rider (macOS) copy" parent="Rider OSX">
+  <action id="Console.TableResult.Reload" />
+  <action id="EditorSplitLine" />
+  <action id="EditorStartNewLine">
+    <keyboard-shortcut first-keystroke="meta enter" />
+  </action>
+  <action id="EditorStartNewLineBefore">
+    <keyboard-shortcut first-keystroke="shift enter" />
+  </action>
+  <action id="Github.PullRequest.Comments.Reload" />
+  <action id="Github.PullRequest.Details.Reload" />
+  <action id="Refresh" />
+  <action id="RenameElement">
+    <keyboard-shortcut first-keystroke="meta r" second-keystroke="r" />
+  </action>
+  <action id="Replace" />
+  <action id="Rerun" />
+  <action id="Svn.RefreshWorkingCopies" />
+  <action id="Vcs.Log.Refresh" />
+</keymap>
