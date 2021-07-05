@@ -1,11 +1,8 @@
 <keymap version="1" name="Rider (macOS) copy" parent="Rider OSX">
   <action id="Console.TableResult.Reload" />
   <action id="EditorSplitLine" />
-  <action id="EditorStartNewLine">
-    <keyboard-shortcut first-keystroke="meta enter" />
-  </action>
   <action id="EditorStartNewLineBefore">
-    <keyboard-shortcut first-keystroke="shift enter" />
+    <keyboard-shortcut first-keystroke="meta enter" />
   </action>
   <action id="ExtractMethod">
     <keyboard-shortcut first-keystroke="meta r" second-keystroke="m" />
