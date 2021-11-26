@@ -4,7 +4,7 @@
     <property name="created">2021-06-28T14:48:52</property>
     <property name="ide">Rider</property>
     <property name="ideVersion">2021.1.3.0.0</property>
-    <property name="modified">2021-08-03T11:57:31</property>
+    <property name="modified">2021-11-26T12:00:11</property>
     <property name="originalScheme">_@user_Hiberbee Dark</property>
   </metaInfo>
   <option name="CONSOLE_FONT_NAME" value="Fira Code" />
@@ -635,7 +635,7 @@
     </option>
     <option name="DEFAULT_CONSTANT">
       <value>
-        <option name="FOREGROUND" value="ff8c00" />
+        <option name="FOREGROUND" value="ff7b3a" />
       </value>
     </option>
     <option name="DEFAULT_DOC_COMMENT">
@@ -739,7 +739,7 @@
     </option>
     <option name="DEFAULT_PARAMETER">
       <value>
-        <option name="FOREGROUND" value="ffc66d" />
+        <option name="FOREGROUND" value="ffdc5e" />
       </value>
     </option>
     <option name="DEFAULT_PARENTHS">
@@ -31991,7 +31991,7 @@
     </option>
     <option name="ReSharper.ENUM_IDENTIFIER">
       <value>
-        <option name="FOREGROUND" value="f59762" />
+        <option name="FOREGROUND" value="328eff" />
       </value>
     </option>
     <option name="ReSharper.EVENT_IDENTIFIER">
@@ -32032,7 +32032,7 @@
     </option>
     <option name="ReSharper.STRUCT_IDENTIFIER">
       <value>
-        <option name="FOREGROUND" value="f59762" />
+        <option name="FOREGROUND" value="6341ff" />
       </value>
     </option>
     <option name="ReSharper.TYPE_PARAMETER_IDENTIFIER">
