@@ -9,6 +9,7 @@
     <option name="INSERT_BRACE_ON_ENTER" value="false" />
   </component>
   <component name="EditorSettings">
+    <option name="USE_SOFT_WRAPS" value="PREVIEW" />
     <option name="STRIP_TRAILING_SPACES" value="None" />
     <option name="IS_WHEEL_FONTCHANGE_ENABLED" value="true" />
   </component>
